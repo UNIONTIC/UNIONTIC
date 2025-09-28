@@ -7,6 +7,5 @@ UNIONTIC 🚀
 
 ✨ En UNIONTIC nos mueve la pasión por la innovación, el trabajo en equipo y la excelencia tecnológica, ofreciendo a cada cliente soluciones digitales inteligentes, funcionales y de alto impacto.
 
-GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uniontic&theme=dark)](https://git.io/streak-stats)
 
